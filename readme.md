@@ -1,3 +1,26 @@
+###Aplikacja dla dzieci 
+
+Na stronie znajduje się interaktywna mapa 
+1. Klikając na poszczególne kraje świata dostajemy informacj o podstawowych informacjach  o danym państwie '
+2. Klikając dwa razy w dane państwo dodajemy je do listy z odwiedzonymi przez siebie państwami  
+3.Jest to prosta aplikacja uwzględniająca możliwości poznawcze najmłodszych
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Webpack React Demo App
 
 ### How to install:
